@@ -1,6 +1,10 @@
 {
 	"Id": "daf417da-8287-4d4b-a300-e796888ead22",	
 	"CreateDate": "2018-11-03T00:00:00.000Z",
+	"LastLoginDate": "2018-04-10T00:00:00.000Z",
+	"PlatformType": "Dev",
+	"GoogleId": "998-528-9045",
+	"FacebookId": "674142854",
 	"Google":{
 		"Email": "cconaway9@gmail.com",
 		"Id": "998-528-9045",
@@ -13,10 +17,13 @@
 		"LastName": "Conaway",
 		"Name": "Curtis Conaway",
 		"Picture": "https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-1/c0.0.160.160a/p160x160/28660696_10156230155207855_677562361483477902_n.jpg?_nc_cat=106&_nc_ht=scontent-lax3-1.xx&oh=bb8acac02e4ff0f724ba582f68c6ffb9&oe=5D429224"
-	},	
-	"PlatformType": "Dev",
-	"SubscriptionLevel": 0,
-	"FreePreviewEndDate": "2019-11-03T00:00:00.000Z",
+	},
+	"Subscription":{
+		"SubscriptionLevel": 0,
+		"StartDate": "1900-01-01T00:00:00.000Z",
+		"EndDate": "1900-01-01T00:00:00.000Z",	
+		"FreePreviewEndDate": "2019-11-03T00:00:00.000Z"
+	},
 	"Limits":{
 		"RandomMealCalls": 30,
 		"RandomRestarauntCalls": 30
