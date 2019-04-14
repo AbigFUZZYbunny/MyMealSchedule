@@ -1,4 +1,4 @@
-# MyMealSchedule
+# WhatsForDinner
 Mobile App for meal decisions and planning
 
 Development Platform: Visual Studio 2017 - Zamaran.forms
